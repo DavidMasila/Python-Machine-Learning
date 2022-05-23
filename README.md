@@ -19,6 +19,9 @@ Algorithms covered:
   
   ## Projects Done
   <ul>
-  <li>Customer Churn Prediction </li>
-  <li>Cancer Prediction </li>
+  <li>Customer Churn Prediction</li>
+  <li>Cancer Prediction)</li>
+  <li>Customer Categorization</li>
+  <li>Drug Categorization </li>
+  <li>Car Emmision Prediction <li>
   </ul>
