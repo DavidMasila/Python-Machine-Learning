@@ -11,8 +11,8 @@ Algorithms covered:
   <li>K-Nearest Neighbors</li>
   <li>Decision Trees</li>
   <li>Support Vector Machines </li>
-  <li>K-Means clustering<li>
   <li>Hierachical Clustering</li>
+  <li>K-means Clustering </li>
   <li>DBSCAN Clustering </li>
   <li>Recommender Systems </li>
   <li>Natural Language Processing</li>
