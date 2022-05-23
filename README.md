@@ -15,6 +15,7 @@ Algorithms covered:
   <li>Hierachical Clustering</li>
   <li>DBSCAN Clustering </li>
   <li>Recommender Systems </li>
+  <li>Natural Language Processing</li>
  </ul>
   
   ## Projects Done
@@ -24,4 +25,8 @@ Algorithms covered:
   <li>Customer Categorization</li>
   <li>Drug Categorization </li>
   <li>Car Emmision Prediction <li>
+  <li>Sentiment Analysis</li>
+  <li>Spam Detection</li>
+  <li>Diabetes Prediction</li>
+  <li>Ad budget Analysis</li>
   </ul>
